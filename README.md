@@ -1,3 +1,5 @@
+# Lejupielādēt EXE instalācijas dati var šeit: https://failiem.lv/f/57k8pfpm3x
+
 # Pieņemšanas-Nodošanas Akta Ģenerators
 
 Šī ir daudzfunkcionāla darbvirsmas lietojumprogramma, kas izstrādāta, izmantojot Python un PySide6, lai vienkāršotu pieņemšanas-nodošanas aktu (un līdzīgu dokumentu) ģenerēšanu. Tā piedāvā plašas pielāgošanas iespējas PDF un DOCX formātos, ietverot detalizētus iestatījumus dokumenta izkārtojumam, saturam un drošībai.
